@@ -1,3 +1,17 @@
+# ZSWatch 中文学习与个人实践
+
+本仓库是 [ZSWatch/ZSWatch](https://github.com/ZSWatch/ZSWatch) 的 Fork，保留上游源码、历史、版权和许可证。个人学习与扩展由 [h990566354-sudo](https://github.com/h990566354-sudo) 按阶段推进。
+
+**[从这里开始：中文学习资料](docs/zh-learning/00-开始阅读.md)**
+
+资料包括项目全貌、About 第一课、实际源码调用链、环境与模拟器方案、阶段练习及简历证据要求。资料包含 Codex 辅助整理的分析，请结合源码和动手验证学习。
+
+当前已建立 Fork 并整理学习资料；尚未完成本人的编译运行、个人功能开发或实机验证。后续只根据真实改动和验证结果更新项目成果。
+
+下面保留上游 README。
+
+---
+
 # [zswatch.dev](https://zswatch.dev/)
 <img alt="ZSWatch_logo_with_text" src="https://github.com/user-attachments/assets/6669a8eb-a4fd-424e-9a7c-201e0a571641" />
 
